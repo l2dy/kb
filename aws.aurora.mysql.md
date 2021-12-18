@@ -2,11 +2,11 @@
 id: mcKfSvETc3tic2K0lGSLE
 title: Aurora MySQL
 desc: ''
-updated: 1639839360867
+updated: 1639845907911
 created: 1637112927261
 ---
 
-## JDBC Driver
+## JDBC Drivers
 
 ### MariaDB Connector/J
 
