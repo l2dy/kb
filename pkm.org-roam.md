@@ -2,9 +2,11 @@
 id: 6jucipbemxvrwxhzymedupl
 title: Org-roam
 desc: ''
-updated: 1649505655343
+updated: 1649568442808
 created: 1649489224522
 ---
+
+[[e.doom.org-roam2]]
 
 ## Disadvantages
 
