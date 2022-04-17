@@ -2,7 +2,7 @@
 id: gv4so0rz3j1iyl2ndheovcw
 title: Evil
 desc: ''
-updated: 1647694527271
+updated: 1650201749180
 created: 1647480803343
 ---
 
@@ -18,3 +18,7 @@ created: 1647480803343
 
 Repeat last change: `.`
 Repeat last substitute: `&`
+
+## Ex-commands
+
+Close buffer: `:bd`
