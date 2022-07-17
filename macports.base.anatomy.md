@@ -2,7 +2,7 @@
 id: gc4u9xqz58ti0bq61kychs8
 title: Anatomy
 desc: ''
-updated: 1658058674106
+updated: 1658059134225
 created: 1658050851000
 ---
 
@@ -117,3 +117,11 @@ Maximum flexibility, but brings a lot of headache. Prefer non-conflicting subpor
 ## Subports
 
 A directive used in Portfile to generate multiple port definitions from a single Portfile.
+
+## C++ stdlib
+
+The default C++ runtime on OS X 10.9 and later is [libc++](https://libcxx.llvm.org/) from LLVM which supports C++11.
+
+For older OS X versions, MacPorts will install a functional libc++ toolchain by default to replace the ancient version of [libstdc++](https://gcc.gnu.org/onlinedocs/libstdc++/) OS X shipped.
+
+On Linux libstdc++ (The GNU C++ Library) is more ubiquitous.
