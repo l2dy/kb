@@ -2,7 +2,7 @@
 id: 3xaPQU0H6Qjp9KZBsuKTl
 title: Vertico
 desc: ''
-updated: 1649519503442
+updated: 1658052451615
 created: 1640533623259
 ---
 
@@ -14,6 +14,10 @@ Page up & down: `C-S-j` and `C-S-k`
 Next & previous group: `C-M-j` and `C-M-k`
 Next & previous row: `C-j` and `C-k`
 Exit with input: `M-RET` (`vertico-exit-input`) or `RET` (`exit-minibuffer`)
+
+## Search pattern
+
+[[e.doom.consult]]
 
 ## Search all key bindings
 
