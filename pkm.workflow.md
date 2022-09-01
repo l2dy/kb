@@ -2,15 +2,15 @@
 id: ufc8w1kl0r3nuj44qaebutz
 title: Workflow
 desc: ''
-updated: 1649509448804
+updated: 1662004529200
 created: 1649480112667
 ---
 
 ## My PKM Workflow (WIP)
 
-First, use [[pkm.org-roam]] to collect small pieces of information, following the Zettelkasten method. Tag every interesting blog I've read with topics, keep notes when reading books, and store pieces of information verbatim or slightly processed. One can always reorganize notes later, but fast capture is key to persistence.
+First, use [[pkm.dendron]] for knowledge collection and [[pkm.logseq]] for work. Tag every interesting blog I've read with topics, keep notes when reading books, and store pieces of information verbatim or slightly processed. One can always reorganize notes later, but fast capture is key to persistence.
 
-Second, implement the [[pkm.para]] method in a cross-platform note taking system with automatic syncing. It could be org-roam with Dropbox, a specialized software for note taking, or whatever suits. It helps enabling actions, like keeping a blog and improving health conditions.
+Second, implement the [[pkm.para]] method in a cross-platform note taking system with automatic syncing. It could be org-roam with Dropbox, a specialized software for note taking, or whatever suits. I'm choosing Notion for this, and it helps enabling actions, like keeping a blog and improving health conditions.
 
 Third, reorganize. org-roam makes it very easy to reorganize notes, making it a perfect fit for a large flat knowledge base. The PARA method is also optimized for opportunistic reorganization.
 
